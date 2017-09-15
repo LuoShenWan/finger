@@ -8,4 +8,4 @@
     name  : "小罗平仔"
   }
 ```
-[blog](http://www.baidu.com/)
+* blog:[blog](http://www.baidu.com/)
